@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: beige;
+}
+/*diseño de header*/
+.encabezado{
+    background-color: rgb(193, 255, 148, 100);
+    position: sticky;
+}
+.dropdown-menu{
+    background-color: rgb(224, 185, 191) ;
+}
+.centro1{
+    background-color: rgb(140, 98, 141) ;
+}
+.izquierda1{
+    background-color: rgb(202, 158, 165);
+    padding: 1.2rem;
+}
+.footer{
+    background-color: rgba(34, 34, 112, 0.733);
+    color: rgba(202, 210, 214, 0.747);;
+}
+.p-0{
+    color: white;
+}
+/*diseño de página 2*/
+.nosotros{
+    background-color:#bd4f6c;
+    background-image: linear-gradient(326deg, #bd4f6c 0%, #d7826ac0 74%);
+}
+.centro2{
+    background-color: rgba(245, 245, 220, 0.397);
+    margin: 50px;
+    width: 95%;
+}
+.izquierda2{
+    background-color: rgba(46, 46, 46, 0.747);
+    color: rgb(226, 248, 248);
+    margin: 50px;
+    width: 45%;
+}
+.derecha1{
+    background-color: rgba(46, 46, 46, 0.747);
+    color: rgb(226, 248, 248);
+    margin: 50px;
+    width: 43%;
+}
+.izquierda3{
+    background-color: rgba(46, 46, 46, 0.747);
+    color: rgb(226, 248, 248);
+    margin: 50px;
+    width: 90%;
+}
+/*diseño de página 3*/
+.fondo1{
+    background-image:url(./media/ecofri.jpg);
+    margin: 50px;
+    width: 95%;
+}
+.centro3{
+    background-color: rgba(46, 46, 46, 0.747); 
+    color: rgb(226, 248, 248);
+    height: 300px;
+    overflow: auto;
+}
+.izquierda4{
+    background-color: rgba(46, 46, 46, 0.747);
+    color: rgb(226, 248, 248);
+    height: 750px;
+    overflow: auto;
+}
+/*diseño de página 4*/
+.izquierda5{
+    background-color: rgba(46, 46, 46, 0.747);
+    color: rgb(226, 248, 248);
+    height: 750px;
+    overflow: auto; 
+}
+/*diseño de página 5*/
+.centro4{
+    background-color: rgba(46, 46, 46, 0.747); 
+    color: rgb(226, 248, 248);
+    height: 300px;
+    overflow: auto;  
+}
